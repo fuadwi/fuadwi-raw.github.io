@@ -28,7 +28,7 @@ body {
 }
 
 .sneaker {
-  min-height: 35vh;
+  min-height: 30vh;
   display: flex;
   align-items: center;
   justify-content: center;
